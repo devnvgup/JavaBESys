@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.main.com.List.Main",
+            "projectName": "JavaCore_8eeedaaa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.main.com.Abstraction.Main",
+            "projectName": "JavaCore_8eeedaaa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.Abstraction.Main",
+            "projectName": "JavaCore_8eeedaaa"
+        },
+        {
+            "type": "java",
+            "name": "Run Main Class",
+            "request": "launch",
+            "mainClass": "com.Abstraction.Main",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
